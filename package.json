@@ -1,16 +1,16 @@
 {
-  "name": "hs100-api",
+  "name": "fx-hs100-api",
   "version": "0.3.0",
   "description": "TPLink HS100/HS110 WiFi Smart Plug API",
   "author": "Patrick Seal",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git://github.com/plasticrake/hs100-api.git"
+    "url": "git://github.com/czjs2/hs100-api.git"
   },
   "bugs": {
-    "url": "https://github.com/plasticrake/hs100-api/issues",
-    "email": "code@plasticrake.com"
+    "url": "https://github.com/czjs2/hs100-api/issues",
+    "email": "czjs2@qq.com"
   },
   "keywords": [
     "tplink",
